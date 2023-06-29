@@ -1,0 +1,44 @@
+USES AND FUNCTIONS OF DATA SCIENCE IN GAME DEVELOPMENT
+
+This is where the gaming industry needs data science to use this data collected from players across all social 
+networks. Data analysis gives gamers a compelling, novel distraction to stay ahead of the race! One of the most 
+interesting uses of data science is within the features and processes surrounding game development.
+-Game Collection and Data Collection
+-Game Data Analytics
+-Personalized Marketing and Ads
+-Fraud Detection
+-Game Design
+
+ 
+Literature reviews and supporting information supporting the group Position.
+
+-Technology observations
+-Several key technology observations can be made regarding the role of data science in game development.
+-Firstly, data science technologies, such as machine learning algorithms and data visualization tools, 
+  are increasingly being used to analyze large amounts of player data and improve game design.
+-Secondly, cloud computing is becoming more popular in the gaming industry as a way to store and process large amounts of data.
+-Thirdly, Data science can help game developers identify trends and patterns in player behavior to inform marketing and 
+  monetization strategies.
+
+
+GAMEDEV IN PHILIPPINES
+
+The Game Developers Association of the Philippines (GDAP) is a trade association in the Philippines, 
+established in 2007 to represent and promote the country’s game development industry. Its members create 
+and publish interactive games and entertainment content for various platforms.
+
+
+GOVERNMENT ON DATA SCIENCE
+
+MANILA – Data science, analytics, and digital transformation can help make better policies and deliver 
+better services as the Philippines heads to a new and better normal, the National Economic and Development Authority (NEDA) said.
+
+
+SUMMARY
+
+Data science is an important part of game development, providing insights into player behavior, optimizing game mechanics,
+and enhancing the gaming experience. Predictive modeling helps forecast player behavior and game outcomes, A/B testing
+allows for experimentation with different features and monetization strategies, and fraud detection algorithms ensure fair
+gameplay. To leverage data science effectively, developers need to prioritize data collection, invest in data infrastructure,
+and employ data science experts. Continual experimentation and innovation with data science techniques will lead to
+high-quality, immersive games that cater to individual player preferences.
