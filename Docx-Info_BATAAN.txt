@@ -115,6 +115,33 @@ quality content to its gamers. Overall, data science can provide valuable insigh
 Game developers can improve player experiences and create more engaging games by applying the right techniques and methods. 
 a
 
+Reference 
+Jadhav, V. (2022, December 22). The Role Of Data Science In The Gaming Industry. shivaix.com. 
+https://shivaix.com/the-role-of-data-science-in-the-gaming-industry
+
+Pal, S. (n.d.). Data Science and Analytics in Video Games Development. www.linkedin.com.
+https://www.linkedin.com/pulse/data-science-analytics-video-games-development-subhodip-pal 
+
+Santosh, S. (2021). Data Science in Gaming Industry. Analytics Vidhya. 
+https://www.analyticsvidhya.com/blog/2021/05/data-science-in-gaming-industry/ 
+
+Academy, T. (2022, January 10). Data Science in Gaming - Tutort Academy - Medium. Medium.
+ https://medium.com/@-TutortAcademy/data-science-in-gaming-357c38c690cc 
+
+Zook, A., Summerville, A., & Mateas, M. (2018). Player modeling for intelligent difficulty adjustment. 
+In Proceedings of the 13th International Conference on the Foundations of Digital Games (pp. 1-10). ACM.
+https://dl.acm.org/doi/10.1145/3235765.3235821 
+
+Yu, Z., Liu, Y., & Liu, C. (2021). User behavior modeling in free-to-play mobile games. Computers in Human Behavior, 119, 106722. 
+https://www.sciencedirect.com/science/article/pii/S0747563221000697 
+
+Marchadesch, B. (1970, January 1). Game on: the present and future of game development in the Philippines | SciTech |. GMA News Online.
+https://www.gmanetwork.com/news/scitech/technology/242660/game-on-the-present-and-future-of-game-development-in-the-philippines/story/ 
+
+Capellupo, D. (2022, March 30). Data Science Trends Based on 4 Years of Kaggle Surveys. Medium. 
+https://towardsdatascience.com/data-science-trends-based-on-4-years-of-kaggle-surveys-60878d68551f 
+
+
 
 
 
