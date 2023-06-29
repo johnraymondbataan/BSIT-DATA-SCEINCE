@@ -1,6 +1,7 @@
 # BSIT-DATA-SCEINCE
 This is a demo for git and git hub.
 
+SECTION- BSIT-2A-M
 leader - John Raymnond Bataan     members Allen Joy Signo,Matt Jovan Marquez
 
 Assigned tasks per member.
