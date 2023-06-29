@@ -1,0 +1,223 @@
+[4:39 PM] John Raymond  Bataan
+
+"ICEBREAKER"
+
+ 
+
+Word Search
+
+Correct Answer 
+
+Battle field, Over watch, Minecraft, Valorant, Dota, GTA
+
+ 
+
+"DATA SCIENCE IN GAME DEVELOPMENT"
+
+ 
+
+-TABLE OF CONTENTS
+
+-INTRODUCTION AND BACKGROUND OF THE TOPIC     
+
+-OBJECTIVES OF THE TOPIC 
+
+-SCOPE OF THE TOPIC
+
+-USES AND FUNCTIONS
+
+-IMPORTANCE AND BENEFITS
+
+-LITERATURE REVIEWS
+
+-DATA SCIENCE INTHE PHILIPPINES
+
+-LITERATURE REVIEWS
+
+-DATA SCIENCE IN THE PHILIPPINES
+
+-GOVERNMENT PLANS ON DATA SCIENCE
+
+-SUMMARY
+
+-CONCLUSION
+
+ 
+
+
+
+INTRODUCTION AND BACKGROUND OF THE TOPIC
+
+ 
+
+Data science is an interdisciplinary field that uses algorithms, procedures, and processes to examine
+
+large amounts of data in order to uncover hidden patterns, generate insights, and direct decision-making
+
+ 
+
+OBJECTIVES THE STUDY
+
+-to analyse what are the roles of data science in game development
+
+-to identify what kind of data from players or users on social networks is used to provide engaging and 
+
+   unique experience for other gamers
+
+-to identify commonalities and generalize methods that can be applied across multiple games and systems
+
+-To identify the steps of the Philippine government towards the data science sector and in game development as well
+
+-to show different data gathering methods data scientists is using to update their games
+
+ 
+
+
+
+SCOPE OF THE STUDY
+
+ 
+
+This study will cover the fundamental concepts of data science, including what it is and how it is
+
+used in different fields. Specifically, the study will focus on the use of data science in game development,
+
+with a particular emphasis on its uses and functions in the Philippines.
+
+ 
+
+-Data science is a field of study that uses various tools, techniques, and methodologies.
+
+-Data science is the process of collecting, processing, and analyzing data.
+
+-Data science involves a variety of roles and responsibilities for data scientists, engineers, and other professionals.
+
+-Data science tasks include data cleaning, visualization, machine learning, and statistical analysis.
+
+-Data science is used to improve game design, user experience, and player engagement.
+
+-Data science is essential for game development, such as player profiling, gameplay analysis, predictive modeling, and fraud detection.
+
+-The study will explore the challenges and opportunities of data science and game development in the Philippines
+
+ 
+
+
+
+HISTORY OF DATA SCIENCE
+
+ 
+
+THESE ARE THE BRIEF HISTORY OF DATA SCIENCE
+
+1960, 1962, 1974, 1989, 1997, 2001                                                                CONCLUSION AND RECOMMENDATION
+
+ 
+
+The gaming industry is growing exponentially, with more active users and more complex infrastructure. Top-level visualization
+
+and design techniques, visual effects, graphic elements, and augmented reality effects provide customers with a high level of
+
+satisfaction. Data science has entered various industries and improved the principles of their functioning forever. It has
+
+brought various businesses to a qualitatively new level of their development. The industry of gaming is no exception here.
+
+Moreover, data science techniques and methodologies have become integral parts of games development, design, operation,
+
+and many other stages of their functioning
+
+ 
+
+ 
+
+REFERENCES
+
+ 
+
+https://www.pna.gov.ph/articles/1148479\ 
+https://medium.com/@-TutortAcademy/data-science-in-gaming-357c38c690cc 
+https://www.linkedin.com/pulse/data-science-analytics-video-games-development-subhodip-pal 
+https://www.analyticsvidhya.com/blog/2021/05/data-science-in-gaming-industry/ 
+https://www.sciencedirect.com/science/article/pii/S2666557321000252 
+https://www.precisely.com/blog/datagovernance/top-5-data-mining-techniques 
+
+
+Data Science in Gaming
+
+Gaming companies have become an integral part of the global entertainment industry, with users spending more time than ever before in…
+
+[4:39 PM] John Raymond  Bataan
+
+“The Role of Data Science in Game Development”
+
+ 
+
+Introduction and Background of the Technology:
+
+ 
+
+Data science is an interdisciplinary field that uses a combination of techniques from statistics, data analysis, and machine
+
+learning to extract insights and knowledge from data. Data science aims to identify patterns in data and use them to make 
+
+predictions about future events. This information can then be used to make informed decisions and plan strategically.
+
+Data science can be applied in a wide range of industries where data is available. Data Science does have many applications
+
+in the real world that almost everyone can benefit from. Some applications are in healthcare, transportation, sports, government, 
+
+e-commerce, social media, financial technology, marketing, fraud detection, and gaming.
+
+ 
+
+Data science is an important tool in game development. It allows our developers to analyze player behavior and various player-related 
+
+variables such as age group, gender, location, and time spent on gaming. This information can be used to create new games and improve 
+
+existing ones based on player preferences. Data science can also be used for predictive analysis to anticipate when customers might cancel 
+
+their subscriptions and take action to prevent them from leaving. Additionally, data science techniques such as data mining can help 
+
+increase the efficiency of games.
+
+ 
+
+Objectives of the Topic:
+
+Data Science needs information from a player’s data to make a gamer’s dream into a reality and be immersed into the game. For that dream 
+
+to come through, algorithms and specific calculations is needed for that to happen.
+
+ 
+
+to develop, test and implement new ideas and concepts.
+
+to discover transferable algorithms that can be applied to the game.
+
+to collect extensive user data to train deep learning algorithms.
+
+to create mathematical models and automated tools for game analytics and point tracking
+
+to utilize data from players on social networks to provide engaging and unique experiences for gamers.
+
+to identify commonalities and generalize methods that can be applied across multiple games and systems.
+
+ 
+
+
+
+Scope of the Topic
+
+ 
+
+To analyze what are the roles of data science in game development.
+
+ 
+
+to identify what kind of data from players or users on social networks is used to provide engaging and unique experiences for other gamers.
+
+to identify commonalities and generalize methods that can be applied across multiple games and systems.
+
+To identify the steps of the Philippine government toward the data science sector and in-game development as well
+
+to show different data gathering methods data scientists is using to improve them. 
