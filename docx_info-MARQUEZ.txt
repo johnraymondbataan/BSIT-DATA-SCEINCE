@@ -1,0 +1,77 @@
+Literature reviews and supporting information supporting the group Position. 
+
+Technology observations 
+
+Several key technology observations can be made regarding the role of data science in game development.
+Firstly, data science technologies, such as machine learning algorithms and data visualization tools, are
+increasingly being used to analyze large amounts of player data and improve game design. This allows
+game developers to create more personalized and engaging experiences for players. 
+
+Secondly, cloud computing is becoming more popular in the gaming industry as a way to store and process
+large amounts of data. Cloud computing allows game developers to analyze player data more efficiently,
+and it can also reduce the cost of data storage and processing. 
+
+Thirdly, data science can also be used to make data-driven business decisions. By analyzing player data,
+game developers can identify trends and patterns in player behavior that can help inform marketing and
+monetization strategies. 
+
+Finally, there is a growing trend toward using data science to create more ethical and inclusive games.
+For example, in the study by Zook et al. (2018), data science was used to create a puzzle game that was
+more accessible for players with different skill levels. By using data science to improve accessibility
+and inclusivity in game design, developers can create games that are more enjoyable for a wider
+range of players. 
+
+
+Technology Literature Reviews 
+
+One of the key technologies used in these studies is machine learning. Machine learning algorithms can
+be used to analyze large amounts of player data and identify patterns in player behavior. In the study
+by Liao et al. (2019), machine learning algorithms were used to predict player engagement based on
+in-game events. Similarly, in the study by Ribeiro et al. (2019), machine learning algorithms were
+used to analyze gameplay data and identify level designs that were more engaging for players.
+
+Another important technology used in data science applications in game development is data
+visualization. Data visualization tools can be used to create visual representations of
+complex data, making it easier for game developers to understand and interpret.
+For example, in the study by Alshammar et al. (2019), data visualization tools
+were used to analyze player feedback and identify areas for improvement
+in a mobile game.
+
+Cloud computing is also an important technology for data science in game development. Cloud
+computing allows game developers to store and process large amounts of data without the
+need for expensive hardware or infrastructure. In the study by Yu et al. (2021), cloud computing
+was used to analyze player spending patterns in a free-to-play mobile game.
+
+Finally, there is a growing trend toward using data science to create more ethical and inclusive
+games. In the study by Zook et al. (2018), data science was used to create a puzzle game that
+was more accessible for players with different skill levels. By using data science to improve
+accessibility and inclusivity in game design, developers can create more enjoyable games for
+a wider range of players. 
+
+Data science technologies are increasingly used in game development to analyze player behavior,
+improve game design, and make data-driven business decisions. 
+
+
+Survey and Technology Evaluation 
+Are you aware of Data Science ?
+10 responses
+60% Yes 
+40% No
+
+Are you aware that games are reading your data?
+10 responses
+90% Yes 
+10% No
+
+In a scale of 1-5 how would you think Data Science helps us in our daily lives.
+10 responses
+1 - 0%
+2 - 0%
+3 - 30%
+4 - 50%
+5 - 2%
+
+Do you think the government is trying to help the game development sector in the philippines?
+10 responses
+20% Yes
+80% No
