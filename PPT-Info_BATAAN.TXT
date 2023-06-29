@@ -1,0 +1,64 @@
+TYPES OF DATA 
+
+STRUCTURED DATA STRUCTURED DATA IS QUANTITATIVE DATA IN THE FORM OF NUMBERS AND, VALUES 
+UNSTRUCTURED DATA UNSTRUCTURED DATA IS QUALITATIVE DATA IN FORM OF TEXT FILES, AUDIO FILES, AND VIDEO FILES
+
+
+DATA 
+
+refers to a collection of facts, statistics, or information that is gathered through various sources or observations. It can be in
+the form of numbers, text, images, audio, or any other format that can be processed by a computer. Data can be raw and
+unprocessed, or it can be structured and organized 
+
+
+DATA SET 
+
+is a specific collection of data points or observations. It is a structured representation of data organized into rows
+(also called records) and columns (also called attributes or variables).
+
+
+TYPES OF DATA SET 
+
+- RECORD
+- GRAPH
+- ORDERED
+- MULTIMEDIA 
+
+
+DATA SCIENCE ECOSYSTEM 
+
+- Collection of infrastructure  
+- Analytics
+- Applications
+- Provide companies with data that they rely on  
+- Make better pricing 
+- Operations, and Marketing decisions
+
+
+STANDARD DATA SCIENCE TASKS 
+
+Data science tasks typically involve a variety of activities aimed at extracting insights or knowledge from data.
+Some of the standard data science tasks include: 
+
+- Data Collection 
+- Data Cleaning and Preprocessing 
+- Exploratory Data Analysis (EDA) 
+- Feature Engineering 
+- Model Selection and Training 
+- Model Evaluation and Validation 
+
+
+ROLE OF DATA SCIENCE IN GAME DEVELOPMENT 
+
+Gaming companies have become an integral part of the global entertainment industry, with users spending more
+time than ever before in gaming. The use of data in gaming is to create strategies based on the player’s behavior
+and to constantly collect data in order to make predictions and decisions. 
+
+
+
+GAME DEVELOPMENT
+
+Game Development is the art of creating games and describes the design, development and release of a game.
+It may involve concept generation, design, build, test and release. While you create a game, it is important
+to think about the game mechanics, rewards, player engagement and level design.
+
