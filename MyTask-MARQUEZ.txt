@@ -2,4 +2,4 @@ Marquez - Incharge for PPT
 	- Literature reviews and supporting information supporting the group Position 
 	- Technology observations 
 	- Technology Literature Reviews 
-	- Survey and Technology Evaluation
+	- Survey and Technology Evaluations
