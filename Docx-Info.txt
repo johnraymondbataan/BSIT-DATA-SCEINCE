@@ -1,0 +1,86 @@
+Uses and Functions
+
+Data science plays an important role in game development by providing insights and solutions to various
+challenges that arise during the development process. Here are some of the ways in which data science is 
+used in game development:
+
+Predictive analytics: 
+Data science can also be used to predict player behavior, such as the likelihood of a player making an 
+in-game purchase or the probability of a player continuing to play a game. This information can be used to 
+create targeted marketing campaigns, improve game design, and optimize in-game monetization strategies.
+
+Player behavior analysis: 
+Data science helps game developers understand how players interact with their games. By analyzing player 
+behavior data, developers can identify patterns and trends that can be used to improve the player experience, 
+such as adjusting difficulty levels, adding new features, and improving game mechanics.
+
+Quality assurance:
+Data science can be used to improve the quality of games by analyzing data from beta testers and players. 
+By analyzing this data, developers can identify bugs and other issues and make improvements to the game.
+
+Fraud detection: 
+Data science can be used to detect fraudulent activity, such as cheating or hacking, in online games. 
+By monitoring player data, developers can identify unusual behavior and take steps to prevent it from 
+happening.
+
+Personalization:
+Data science can be used to create personalized experiences for players. By analyzing player data, 
+developers can create customized game experiences based on a player's preferences, behavior, and skill level.
+
+Overall, data science is an important tool in game development that can help developers create better games,
+improve player experiences, and increase revenue.
+
+
+
+Importance and Benefits
+
+The understanding of the data value for optimization and improvement of gaming makes specialists search for 
+new ways to apply data science and its benefits in the gaming business. Therefore, various specific data 
+science use cases appear. Here is our list of the most efficient and widely applied data science use cases
+in gaming.
+
+Game Development: 
+Game Development is the art of creating games and describes the design, development, and release of a game.
+Data science is utilized to build the game, analyze and identify optimization points, make predictions, and 
+improve gaming models.
+
+Game monetization:
+According to video game publisher companies’ perspective, their goal is to make any game profitable for them.
+Video game monetization is the process used by the game publisher to generate revenue. Big data analytics tools
+is used for predictions on behavior and optimization of games in such a way that players will come back again 
+and will be ready to pay money for playing. That will help the publisher company to make sure that the game is
+profitable for them or not.
+
+Game design:
+Game design is the art of applying design and aesthetics to create a game. A designer needs to be creative to
+design a powerful game. It is a complex process requiring various programming, visualization, and animation
+skills. The designer has to play three different roles. Those are in the field of programming, creative writing
+and graphic design.
+
+Object identification:
+Realistic graphics, application of artificial intelligence, and image recognition technologies are some main 
+factors that a game developer or a designer should look upon. Game designer also has to understand the behavior
+of the player.
+
+Visual effects and graphics:
+computer graphic techniques create a high impact on the visual effects in gaming. Motion capture in games, 
+real-time rendering, and photo-grammatic are some mechanisms used for the development of visual effects and graphics 
+design.
+
+Personalized marketing:
+Personalized marketing in gaming helps to increase the activity of the users and at the same time attract new
+customers. Video game providers collect data from the market analysis that will help to appeal to the audience better.
+
+Fraud detection:
+Fraud was nearly always about making money in the fastest way possible for the fraudster, and it was generally
+divided into two categories: - ‘True fraud’ and ‘Friendly fraud’. True fraud is fraud with the intent to steal money 
+or to knowingly defraud a merchant. Friendly fraud is a fraud that usually happens without criminal intent. 
+Therefore, gaming companies need to assure a high level of security for the player’s personal information and transactions
+performed. Machine learning algorithms help to rescue gaming companies to detect fraud.
+
+Social and customer analysis:
+Social data and customer data analysis is essential to understand the customer’s perception of the games and
+developing effective product strategies. It also helps the gaming industry to get customers’ insights into their
+attitudes towards the brand and predict customers’ purchase decisions and brand loyalty. Big Data technology
+helps the company to gather data from millions of players and analyze those to get insight.
+
